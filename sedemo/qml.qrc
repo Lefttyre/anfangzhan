@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SysBtn.qml</file>
+        <file>SysBtnGroup.qml</file>
+        <file>images/0911-单兵2.1_16.png</file>
+        <file>images/0911-单兵2.1_18.png</file>
+        <file>images/0911-单兵2.1_20.png</file>
+        <file>images/0911-单兵2.1_35.png</file>
+        <file>images/0911-单兵2.1_41.png</file>
+        <file>images/0911-单兵2.1_43.png</file>
+        <file>images/1_u93.png</file>
+        <file>images/car.jpg</file>
+        <file>images/close_disable.png</file>
+        <file>images/close_down.png</file>
+        <file>images/close_hover.png</file>
+        <file>images/close_normal.png</file>
+        <file>images/ic_accessible_black_24px.svg</file>
+        <file>images/icon-退出全屏.png</file>
+        <file>images/left.jpg</file>
+        <file>images/menu_down.png</file>
+        <file>images/menu_hover.png</file>
+        <file>images/menu_normal.png</file>
+        <file>images/min_down.png</file>
+        <file>images/min_hover.png</file>
+        <file>images/min_normal.png</file>
+        <file>images/player.png</file>
+        <file>images/progress.png</file>
+        <file>images/right.jpg</file>
+        <file>images/shadow.png</file>
+        <file>images/u114.png</file>
+        <file>images/u12.png</file>
+        <file>images/u14.png</file>
+        <file>images/u16.png</file>
+        <file>images/u17.png</file>
+        <file>images/u18.png</file>
+        <file>images/u19.png</file>
+        <file>images/u28.png</file>
+        <file>images/u33.png</file>
+        <file>images/u69.png</file>
+        <file>images/u79.png</file>
+        <file>images/u81.png</file>
+        <file>images/u83.png</file>
+        <file>images/u85.png</file>
+        <file>images/u87.png</file>
+        <file>images/u89.png</file>
+        <file>images/u91.png</file>
+        <file>images/关闭.png</file>
+        <file>images/展开_u75.png</file>
+        <file>images/快进 (1).png</file>
+        <file>images/快进.png</file>
+        <file>images/播放.png</file>
+        <file>images/播放器背景.jpg</file>
+        <file>images/收起_u72.png</file>
+        <file>images/暂停.png</file>
+        <file>images/最大化 (1).png</file>
+        <file>images/最小化.png</file>
+        <file>images/查看.png</file>
+        <file>images/视频结构化-车辆识别2_18.png</file>
+        <file>images/视频结构化-车辆识别2_21.png</file>
+        <file>QtAvComponent.qml</file>
+    </qresource>
+</RCC>

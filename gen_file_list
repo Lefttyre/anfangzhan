@@ -1,0 +1,14 @@
+# usage: ./gen_file_list path-to-files
+
+if [ -e filelist ]; then
+    rm filelist
+fi
+thisdir=$(pwd)
+cd $1
+filedir=$(pwd)
+for file in *
+do
+    echo ${filedir}/${file} >> ${thisdir}/filelist
+done
+
+echo generate done
